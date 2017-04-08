@@ -3,7 +3,7 @@
  * Plugin Name: Tom Banner
  * Plugin URI: https://thomasvitale.com/tom-banner
  * Description: Show a fixed banner to promote your brand new e-book.
- * Version: 3.9.4
+ * Version: 1.0
  * Author: Thomas Vitale
  * Author URI: https://thomasvitale.com
  * License: GPL2
